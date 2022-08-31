@@ -1,3 +1,3 @@
 # Unes
-Site de uma universidade fictícia utilizando somente HTML. <br>
+Site de uma universidade fictícia. <br>
 https://marcosmtns.github.io/Unes/ 
